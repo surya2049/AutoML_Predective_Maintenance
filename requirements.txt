@@ -5,3 +5,4 @@ numpy
 pycaret
 streamlit_pandas_profiling
 ydata-profiling
+sweetwiz
